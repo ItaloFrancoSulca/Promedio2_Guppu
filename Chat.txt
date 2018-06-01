@@ -16,3 +16,5 @@ oye
 hice un menu
 pero no se si se guardo
 puedes fijarte
+Jose:oye no me deja hacer push
+
