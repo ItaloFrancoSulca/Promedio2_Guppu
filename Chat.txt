@@ -4,7 +4,9 @@ Hola
 ---Tareas---
 
 Italo: Modelo
-Jos�: Vista
+José: Vista
 Ambos: Controlador
 
 ------------
+
+Italo: Vamos a hacer un sistema de textos de Guppu. Tu encargaté de ver como mi texto que se encuentra en variables string pase al canvas.
