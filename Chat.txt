@@ -10,3 +10,4 @@ Ambos: Controlador
 ------------
 
 Italo: Vamos a hacer un sistema de textos de Guppu. Tu encargaté de ver como mi texto que se encuentra en variables string pase al canvas.
+Italo: Te lo voy a explicar. Yo voy a codear el texto y que se pueda modificar desde inspector. Tu vas a hacer que ese texto (string) pase al canvas.
