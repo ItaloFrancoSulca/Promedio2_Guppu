@@ -1,2 +1,10 @@
 Italo: Por aca hablamos
 Hola
+
+---Tareas---
+
+Italo: Modelo
+José: Vista
+Ambos: Controlador
+
+------------
