@@ -17,4 +17,4 @@ hice un menu
 pero no se si se guardo
 puedes fijarte
 Jose:oye no me deja hacer push
-
+Italo: Fijate si estas en el repositorio, no olvides tu commit. Tampoco olvides tu cuenta.
