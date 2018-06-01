@@ -1,0 +1,22 @@
+Italo: Por aca hablamos
+Hola
+
+---Tareas---
+
+Italo: Modelo
+José: Vista
+Ambos: Controlador
+
+------------
+
+Italo: Vamos a hacer un sistema de textos de Guppu. Tu encargaté de ver como mi texto que se encuentra en variables string pase al canvas.
+Italo: Te lo voy a explicar. Yo voy a codear el texto y que se pueda modificar desde inspector. Tu vas a hacer que ese texto (string) pase al canvas.
+Italo: Necesito que respondas si no entiendes algo.
+oye
+hice un menu
+pero no se si se guardo
+puedes fijarte
+Jose:oye no me deja hacer push
+Italo: Fijate si estas en el repositorio, no olvides tu commit. Tampoco olvides tu cuenta.
+Italo: Si solo yo tuviera el acceso no podrías modificar el chat.
+Italo: Habla por acá.
