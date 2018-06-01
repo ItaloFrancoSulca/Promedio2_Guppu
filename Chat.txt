@@ -21,3 +21,5 @@ Italo: Fijate si estas en el repositorio, no olvides tu commit. Tampoco olvides 
 Italo: Si solo yo tuviera el acceso no podrías modificar el chat.
 Italo: Habla por acá.
 Italo: ya?
+José: Hola, oye mira hice un menu principa ya lo subi
+puedes comprobar que lo puedas usar
